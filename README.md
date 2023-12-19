@@ -1,1 +1,1 @@
-"# BlogBook-Django" 
+# BlogBook-Django
